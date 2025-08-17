@@ -1,0 +1,15 @@
+Team: 
+Shubh Nagar - 24M0764
+Abhishek Singh - 24M0808		
+Shashank Zanzad - 24M0780
+Suraj Patil - 24M0837
+
+
+
+1. install tensorflow, matplotlib, pandas
+pip install yfinance
+pip install tensorflow
+
+2. run dataset.py to fetch the latest data, and save it in a csv file. (the dataset is converted to heikin ashi form)
+python dataset.py
+3. open and run all cell in app.ipynb, 
